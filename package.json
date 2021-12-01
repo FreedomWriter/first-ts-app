@@ -1,0 +1,19 @@
+{
+  "name": "first-ts-app",
+  "version": "1.0.0",
+  "description": "first typescript app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FreedomWriter/first-ts-app.git"
+  },
+  "author": "Natalie Davis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FreedomWriter/first-ts-app/issues"
+  },
+  "homepage": "https://github.com/FreedomWriter/first-ts-app#readme"
+}
